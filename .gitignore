@@ -1,2 +1,9 @@
+<<<<<<< HEAD
 .idea
 .venv
+=======
+__pycache__/
+venv
+.idea
+__pycache__
+>>>>>>> New_feature
