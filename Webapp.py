@@ -37,9 +37,3 @@ for index,todo in enumerate(todos):
         fxns.write_todos(todos)
         del session_state[todo]
         st.rerun()
-
-#st.chat_message('enter message')
-#st.link_button(url='https://github.com/Maurice3597/MyTodo.git', label='visit github')
-
-
-st.session_state
