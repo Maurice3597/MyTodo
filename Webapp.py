@@ -61,4 +61,4 @@ if delete_btn:
         del st.session_state[f'checkbox{index + 1}']
     st.rerun()  # Refresh the app
 
-st.session_state
+#st.session_state
